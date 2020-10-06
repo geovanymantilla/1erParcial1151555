@@ -15,6 +15,13 @@ body{
   padding-top: 0px;
   margin-top: 0px;
 }
+#boto{
+  float: right;
+  margin-right: 7px;
+}
+#foot{
+  float: left;
+}
 
 
 #flex {
@@ -37,7 +44,7 @@ div img {
     align-self: center;
 }
 
-footer {
+#footer {
   padding: 15px;
   background-color: #1c1440;
   color: #fff;
