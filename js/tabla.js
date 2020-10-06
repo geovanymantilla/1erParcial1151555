@@ -1,6 +1,6 @@
-async function traerDatos(){
+async function Datos(){
     console.log("alv");
-    const data = await fetch(
+    const datos = await fetch(
         "https://www.datos.gov.co/resource/gt2j-8ykr.json"
     );
     const dataJson = await data.json();
